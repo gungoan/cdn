@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Tuyển tập đầy đủ các thể loại game online, webgame online mới nhất và hay nhất như game client, game mobile, game nhập vai, game kiếm hiệp, game chiến thuật">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Webgame Online - Web Game Online Mới Nhất - Tuyển tập VTC Game.</title>
+    
+    <link rel="shortcut icon" type="image/x-icon" href="https://vtcgame.vn/images/favicon.ico">
+    <link href="https://vtcgame.vn/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="google-site-verification" content="vBYvZyWkMJqFViScGRn4KB0leIotqz8H0ZwFW47NmEM" />
+
+    <link href="/Content/default.css" rel="stylesheet" />
+    <link href="/Content/component.css" rel="stylesheet" />
+    <link href="/Content/bootstrap.min.css" rel="stylesheet" />    
+    <link href="/Content/style.css" rel="stylesheet" />
+    <link href="/Content/owl.carousel.css" rel="stylesheet" />
+    <link href="/Content/css/popup.css" rel="stylesheet" />
+	
+    <script src="https://vtcgame.vn/Scripts/lib/bootbox.min.js"></script>
+    <script src="https://vtcgame.vn/Scripts/lib/jquery-1.9.1.min.js"></script>
+    <script src="https://vtcgame.vn/Scripts/lib/bootstrap.min.js"></script>
+    <script src="https://vtcgame.vn/Scripts/lib/modernizr.custom.js"></script>
+    <script src="https://vtcgame.vn/Scripts/lib/jquery.pager.js"></script>
+    <script src="https://vtcgame.vn/Scripts/lib/toucheffects.js"></script>
+    <script src="https://vtcgame.vn/Scripts/lib/connect.js"></script>
+    <script src="https://vtcgame.vn/Scripts/loading.js"></script>
+    <script src="https://vtcgame.vn/Scripts/lib/owl.carousel.js"></script>
+
+    <script src="/Scripts/lib/jsConfig.js"></script>
+    <script src="/Scripts/lib/app.js"></script>    
+    <script type="text/javascript" src="https://static.vtcgame.vn/header2/js/header.js"></script>
+    <!--  <script type="text/javascript" src="https://connect.facebook.net/vi_VN/all.js#xfbml=1"></script> -->
+    
+
+
+
+        <meta property="og:title" content="Webgame Online - Web Game Online Mới Nhất - Tuyển tập VTC Game." />
+        <meta property="og:description" content="Tuyển tập đầy đủ các thể loại game online, webgame online mới nhất và hay nhất như game client, game mobile, game nhập vai, game kiếm hiệp, game chiến thuật" />
+        <meta property="og:image" content="images/img-ngaothien-content-right.png" />
+        <meta name="Description" content="Tuyển tập đầy đủ các thể loại game online, webgame online mới nhất và hay nhất như game client, game mobile, game nhập vai, game kiếm hiệp, game chiến thuật" />
+        <meta name="Keywords" content="game online, vtcgame, game mobile, game mini, webgame, cổng game, game nhập vai, game kiếm hiệp, game tiên hiệp, game chiến thuật, game miễn phí, chơi game, game hot, game mới, game hay, webgame mới, game mới ra mắt, game 2016" />
+        <meta property="og:type" content="article" />
+        <meta property="og:site_name" content="vtcgame.vn" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="200" />
+        <meta property="og:image:height" content="200" />
+
+    <script type="text/javascript">
+        appPath = 'https://vtcgame.vn/';
+    </script>
+	<script src="/Scripts/giftshop.js"></script>
+    <script src="/Scripts/giftcode.js"></script>
+    <script src="/Scripts/utils.js"></script>
+    <script src="/Scripts/common.js"></script>
+	<!-- Facebook Pixel Code Landing -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window,
+        document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '663430830463345');
+        fbq('track', "PageView");
+        fbq('track', 'Lead');</script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=663430830463345&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-71454561-5', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+</head>
+<body onload="utils.checkCookie();">
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.5&appId=957149301040687";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>  
+    <div id="divHeader">
+
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var islogin = false;
+            var accountId = '0';
+            console.log('accountId:' + accountId);
+            if (accountId > 0) islogin = true;
+            var data = {
+                HeaderId: 'divHeader',
+                IsLogin: islogin,
+                IsBannerLeft: true,
+                IsBannerRight: true,
+				IsFooter:true,
+                LoginUrl: 'https://vtcgame.vn/accounts/sso/login/?sid=880537&amp;ur=https%3a%2f%2fvtcgame.vn%2f&amp;m=1&amp;continue=https://vtcgame.vn/Home/SSO/Login',
+                LogOutUrl: 'https://vtcgame.vn/accounts/sso/logout/?ur=https%3a%2f%2fvtcgame.vn%2fHome%2fSSO%2fLogout'
+            };
+            GlobalHeader.init(data);
+        });
+    </script>
+   
+    <div id="frame1" class="wrap-slider">
+        <div id="slider-home" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+                <li data-target="#slider-home" data-slide-to="0" class="active"></li>
+                <li data-target="#slider-home" data-slide-to="1"></li>
+                <li data-target="#slider-home" data-slide-to="2"></li>
+                <li data-target="#slider-home" data-slide-to="3"></li>
+                <li data-target="#slider-home" data-slide-to="4"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <a href="https://hoathiencot.vtcgame.vn/update/?utm_source=update&amp;utm_medium=banner_vtcgame&amp;utm_content=1&amp;utm_campaign=Noibo" target="_blank"><img class="img-responsive"  style="height:auto" src="https://vtcgame.vn/media/vtcgate/2016/08/19/1920x650.gif" alt=""></a>
+                    </div>
+                    <div class="item">
+                        <a href="https://as.vtcgame.vn/landing/?utm_source=landing&amp;utm_medium=banner_vtcgame&amp;utm_content=1&amp;utm_campaign=NoiBo" target="_blank"><img class="img-responsive"  style="height:auto" src="https://vtcgame.vn/media/vtcgate/2016/08/18/Avatar-Star-1920x650.jpg" alt=""></a>
+                    </div>
+                    <div class="item">
+                        <a href="https://vtcgame.vn/tin-tuc-6/thang-8---cong-vtc-game-co-gi-hot--3790?utm_source=tin-tuc&amp;utm_medium=banner_vtcgame&amp;utm_content=1&amp;utm_campaign=NoiBo" target="_blank"><img class="img-responsive"  style="height:auto" src="https://vtcgame.vn/media/vtcgate/2016/08/12/SKconggame.gif" alt=""></a>
+                    </div>
+                    <div class="item">
+                        <a href="http://bit.ly/2b7FgVQ" target="_blank"><img class="img-responsive"  style="height:auto" src="https://vtcgame.vn/media/vtcgate/2016/08/12/banner 1920x650.jpg" alt=""></a>
+                    </div>
+                    <div class="item">
+                        <a href="http://bit.ly/2bO6U9T" target="_blank"><img class="img-responsive"  style="height:auto" src="https://vtcgame.vn/media/vtcgate/2016/08/23/1920x650.jpg" alt=""></a>
+                    </div>
+    </div>
+    <div id="bg-nen"></div>
+</div>
+    </div>
+    <!--End-slider-->
+        <div class="aaa">
+            
+
+        </div>
+
+
+    <div class="wrap-content">
+        <div class="aaa">
+
+
+<div class="content-left" style="width: 220px;float: left;">
+
+    <div class="content-left-server">
+	    <div class="content-left-register" style="margin-top:20px;display:none">
+            <input type="image" src="https://vtcgame.vn/images/login-popup/button_quick_reg.png" onclick="PopupCtrl.ShowPopup();" />
+        </div>
+        <div class="title-server">
+            <img src="https://vtcgame.vn/images/img-server.png">
+            <p>SERVER MỚI</p>
+            <a href="javascript:;"><span><img src="https://vtcgame.vn/images/icon-btn-content-left.png"></span></a>
+        </div>
+        <table class="table table-info table-hover">
+            <tbody>
+                    <tr>
+                        <td>Ngày</td>
+                        <td>Giờ</td>
+                        <td>Game</td>
+                        <td>Server</td>
+                    </tr>
+                            <tr onclick="window.location.href = 'https://hoathiencot.vtcgame.vn';" style="cursor:pointer;">
+                                <td>19/08</td>
+                                <td>09:30</td>
+                                <td><a target="_blank" href="https://hoathiencot.vtcgame.vn"><span>Hoa Thi&#234;n Cốt</span></a></td>
+                                <td><p>S149</p></td>
+                            </tr>
+                            <tr onclick="window.location.href = 'https://as.vtcgame.vn/';" style="cursor:pointer;">
+                                <td>18/08</td>
+                                <td>14:00</td>
+                                <td><a target="_blank" href="https://as.vtcgame.vn/"><span>Avatar Star</span></a></td>
+                                <td><p>Vui Th&#236; Chiến</p></td>
+                            </tr>
+                            <tr onclick="window.location.href = 'https://vantrungca.vtcgame.vn/landing10/?utm_source=landing10&amp;utm_medium=gamelist&amp;utm_content=1&amp;utm_';" style="cursor:pointer;">
+                                <td>17/08</td>
+                                <td>11:00</td>
+                                <td><a target="_blank" href="https://vantrungca.vtcgame.vn/landing10/?utm_source=landing10&amp;utm_medium=gamelist&amp;utm_content=1&amp;utm_"><span>V&#226;n Trung Ca</span></a></td>
+                                <td><p>VTC-27</p></td>
+                            </tr>
+                            <tr onclick="window.location.href = 'http://sv.vtcgame.vn';" style="cursor:pointer;">
+                                <td>15/08</td>
+                                <td>15:00</td>
+                                <td><a target="_blank" href="http://sv.vtcgame.vn"><span>So&#225;i Vương</span></a></td>
+                                <td><p>SV-130</p></td>
+                            </tr>
+                            <tr onclick="window.location.href = 'https://phidoi2.vtcgame.vn/';" style="cursor:pointer;">
+                                <td>03/08</td>
+                                <td>00:00</td>
+                                <td><a target="_blank" href="https://phidoi2.vtcgame.vn/"><span>Phi Đội 2</span></a></td>
+                                <td><p>Akron</p></td>
+                            </tr>
+            </tbody>
+
+        </table>
+    </div>
+
+    <!--End-server-->
+
+    <!--Giftcode-->
+    <div class="content-left-giftcode">
+
+        <div class="title-giftcode">
+            <img src="https://vtcgame.vn/images/img-giftcode.jpg">
+            <p>GIFTCODE</p>
+            <a href="javascript:;"><span><img src="https://vtcgame.vn/images/icon-btn-content-left.png"></span></a>
+        </div>
+
+        <div class="infor-giftcode">
+            <ul class="nav-giftcode">
+                        <li class="clearfix">
+                            <a href="/Giftcode/Index/code-tan-thu">
+                                <img class="img-phongthan" src="https://vtcgame.vn/media/vtcgate/2016/08/18/800x800.png" alt="..." width="50" height="50" style="border-radius: 50%; border: 1px solid green; padding: 3px">
+                                <div class="ct-left-infor-gift">
+                                    <h4 style="width: 140px; text-align: right;">Avatar Star</h4>
+                                    <a href="/Giftcode/Index/code-tan-thu">Nhận giftcode</a>
+                                </div>
+                            </a>
+                        </li>
+            </ul>
+        </div>
+    </div>
+
+    <!--End-gift-->
+    
+    <!--<div class="content-left-nhiemvu">
+
+        <div class="title-nhiemvu">
+            <img src="https://vtcgame.vn/images/img-nhiemvu-left.jpg">
+            <p>NHIỆM VỤ</p>
+            <a href="#"><span><img src="https://vtcgame.vn/images/icon-btn-content-left.png"></span></a>
+        </div>
+        <div class="infor-nhiemvu">
+            <ul class="nav-giftcode">
+                <li class="clearfix">
+                    <h3 class="pull-left txt-nhiemvu">Đăng nhập hàng ngày</h3>
+                    <div class="ct-left-infor-nv">
+                        <h4>10 điểm</h4>
+                        <div class="clearfix"></div>
+                        <a href="">Nhận ngay</a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <h3 class="pull-left txt-nhiemvu">Chơi game bất kỳ</h3>
+                    <div class="ct-left-infor-nv">
+                        <h4>10 điểm</h4>
+                        <div class="clearfix"></div>
+                        <a href="">Nhận ngay</a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <h3 class="pull-left txt-nhiemvu">Mời bạn thêm vui</h3>
+                    <div class="ct-left-infor-nv">
+                        <h4>10 điểm</h4>
+                        <div class="clearfix"></div>
+                        <a href="">Nhận ngay</a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <h3 class="pull-left txt-nhiemvu">Like bài viết 1 lần</h3>
+                    <div class="ct-left-infor-nv">
+                        <h4>10 điểm</h4>
+                        <div class="clearfix"></div>
+                        <a href="">Nhận ngay</a>
+                    </div>
+                </li>
+            </ul>
+
+
+        </div>
+    </div>-->
+
+    <!--End-nhiemvu-->
+
+    <div class="content-left-tongdai">
+        <div class="title-tongdai">
+            <img src="https://vtcgame.vn/images/img-tongdai.jpg">
+            <p>Tổng đài hỗ trợ</p>
+        </div>
+    </div>
+
+
+    <div class="plugin-facebook">
+        <a href="http://hotro.vtc.vn" class="img-hotline"><img class="img-responsive" src="https://vtcgame.vn/images/img-hotline.png"></a>
+        
+
+        
+        <div class="fb-page" data-href="https://www.facebook.com/PhiDoiVTC/" data-small-header="false" style="margin-top: 10px" data-width="220" data-height="400" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+        <div class="fb-xfbml-parse-ignore">
+            <blockquote cite="https://www.facebook.com/PhiDoiVTC/">
+                <a href="https://www.facebook.com/PhiDoiVTC/">Facebook</a>
+            </blockquote>
+        </div>
+    </div>
+
+    </div>
+    
+
+    <div class="wrap-slider-ct-left" style="margin-top:10px;">
+        
+
+
+<div id="slider-left" class="carousel slide" data-ride="carousel">
+
+    <ol class="carousel-indicators" style="left: 34%">
+                <li data-target="#slider-left" data-slide-to="0"></li>
+                <li data-target="#slider-left" data-slide-to="1" class="active"></li>
+                <li data-target="#slider-left" data-slide-to="2" class="active"></li>
+
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <a href="https://as.vtcgame.vn/landing/?utm_source=landing&amp;utm_medium=banner_vtcgame&amp;utm_content=1&amp;utm_campaign=NoiBo" target="_blank"><img class="img-responsive" src="https://vtcgame.vn/media/vtcgate/2016/08/18/Avatar-Star-220x235.gif" style="height:235px;" alt=""></a>
+                    </div>
+                    <div class="item">
+                        <a href="https://vtcgame.vn/tin-tuc-6/thang-8---cong-vtc-game-co-gi-hot--3790?utm_source=tin-tuc&amp;utm_medium=banner_vtcgame&amp;utm_content=1&amp;utm_campaign=NoiBo"><img class="img-responsive" src="https://vtcgame.vn/media/vtcgate/2016/08/15/200x235_skconggame.gif" style="height:235px;" alt=""></a>
+</div>
+                    <div class="item">
+                        <a href="https://phidoi2.vtcgame.vn/?utm_source=homepage&amp;utm_medium=banner_vtcgame&amp;utm_content=1&amp;utm_campaign=NoiBo"><img class="img-responsive" src="https://vtcgame.vn/media/vtcgate/2016/08/01/220x235.gif" style="height:235px;" alt=""></a>
+</div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $('#slider-left').carousel({
+        interval: 3000,
+        pause: "false"
+    });
+</script>
+    </div>
+</div>            
+            <div class="content-right" style="width: 760px; float: left;margin-left: 20px;" id="idcontent">
+                
+<div class="content-gamemoi">
+    
+
+<h3 class="title-content-gamemoi">GAME MỚI</h3>
+
+        <ul class="grid cs-style-3" style='margin-right: 20px'>
+            <li>
+                <figure>
+                    <div class="wrap-game-all">
+                        <img class="full-img" width="240" height="250" src="https://vtcgame.vn/media/vtcgate/2016/07/04/VTC_logo.gif">
+                        <div class="infor-ngaothien">
+                                <span class="glyphicon glyphicon-globe"></span>
+                            <h3 class="">V&#226;n Trung Ca</h3>
+                            <p class="">WebGame</p>
+                        </div>
+                    </div>
+                    <figcaption>
+                        <div class="info-game-all">
+                            <h3 class="pull-left">V&#226;n Trung Ca</h3>
+                            <img class="pull-right" src="https://vtcgame.vn/images/img-audition-gamemoi.png">
+                            <h4>WebGame</h4>
+                            <p>V&#226;n Trung Ca - Webgame Phi Thi&#234;n Loạn Đả số 1 Việt Nam</p>
+                            <a href="https://vantrungca.vtcgame.vn/landing10/?utm_source=landing10&amp;utm_medium=gamelist&amp;utm_content=1&amp;utm_" target="_blank" class="btn-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                <a href="https://vantrungca.vtcgame.vn/landing10/?utm_source=landing10&amp;utm_medium=gamelist&amp;utm_content=1&amp;utm_campaign=NoiBo" target="_blank" class="btn-taingay">Chơi Ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                        </div>
+                    </figcaption>
+                </figure>
+            </li>
+        </ul>
+        <ul class="grid cs-style-3" style='margin-right: 20px'>
+            <li>
+                <figure>
+                    <div class="wrap-game-all">
+                        <img class="full-img" width="240" height="250" src="https://vtcgame.vn/media/vtcgate/2016/04/28/ava-sv1.gif">
+                        <div class="infor-ngaothien">
+                                <span class="glyphicon glyphicon-globe"></span>
+                            <h3 class="">So&#225;i Vương</h3>
+                            <p class="">WebGame</p>
+                        </div>
+                    </div>
+                    <figcaption>
+                        <div class="info-game-all">
+                            <h3 class="pull-left">So&#225;i Vương</h3>
+                            <img class="pull-right" src="https://vtcgame.vn/images/img-audition-gamemoi.png">
+                            <h4>WebGame</h4>
+                            <p>Với ưu thế về đồ họa cũng như gameplay đa phong c&#225;ch, g&#226;y ấn tượng cực mạnh với hệ thống PK tinh xảo, So&#225;i Vương chắc chắn sẽ kh&#244;ng l&#224;m bạn thất vọng.</p>
+                            <a href="http://sv.vtcgame.vn" target="_blank" class="btn-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                <a href="http://sv.vtcgame.vn" target="_blank" class="btn-taingay">Chơi Ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                        </div>
+                    </figcaption>
+                </figure>
+            </li>
+        </ul>
+        <ul class="grid cs-style-3" >
+            <li>
+                <figure>
+                    <div class="wrap-game-all">
+                        <img class="full-img" width="240" height="250" src="https://vtcgame.vn/media/vtcgate/2015/12/21/HTC - 240x250.jpg">
+                        <div class="infor-ngaothien">
+                                <span class="glyphicon glyphicon-globe"></span>
+                            <h3 class="">Hoa Thi&#234;n Cốt</h3>
+                            <p class="">WebGame</p>
+                        </div>
+                    </div>
+                    <figcaption>
+                        <div class="info-game-all">
+                            <h3 class="pull-left">Hoa Thi&#234;n Cốt</h3>
+                            <img class="pull-right" src="https://vtcgame.vn/images/img-audition-gamemoi.png">
+                            <h4>WebGame</h4>
+                            <p>Hoa Thi&#234;n Cốt l&#224; webgame triệu đ&#244; nổi bật với t&#237;nh năng PK xuy&#234;n ph&#225; hư kh&#244;ng. Tựa game được chuyển thể từ bộ phim c&#249;ng t&#234;n ăn kh&#225;ch nhất năm 2015.</p>
+                            <a href="https://hoathiencot.vtcgame.vn" target="_blank" class="btn-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                <a href="https://hoathiencot.vtcgame.vn" target="_blank" class="btn-taingay">Chơi Ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                        </div>
+                    </figcaption>
+                </figure>
+            </li>
+        </ul>
+
+</div>
+
+<!--End-gamemoi-->
+
+<div class="content-tabs-game">
+    <ul class="nav nav-tabs nav-more" id="TabGame">
+        <li class="active tabs-li"><a href="javascript:;" onclick="HomeCtrl.ListGames(23);HomeCtrl.SetActiveTab(this);">WEB GAME</a></li>
+        <li class="tabs-li"><a href="javascript:;" onclick="HomeCtrl.ListGames(25);HomeCtrl.SetActiveTab(this);">CLIENT GAME</a></li>
+        <li class="tabs-li"><a href="javascript:;" onclick="HomeCtrl.ListGames(24);HomeCtrl.SetActiveTab(this);">MOBILE GAME</a></li>
+        <li><a href="javascript:;" onclick="HomeCtrl.ListGames(26);HomeCtrl.SetActiveTab(this);">MINIGAME</a></li>
+    </ul>
+
+    <div class="tab-content" id="ListClientGame">
+        <div role="tabpanel" class="tab-pane active" id="ListGames">
+                    <div class="cc1">
+
+
+            <div class="name-game-tabs-all">
+                                                    <span class="glyphicon glyphicon-globe"></span>
+                
+                <h3>V&#226;n Trung Ca</h3>
+            </div>
+            <ul class="grid cs-style-3">
+                <li>
+                    <figure>
+                        <div class="wrap-tabs-game">
+                            <img class="full-img" width="230" height="240" src="https://vtcgame.vn/media/vtcgate/2016/07/04/VTC_logo.gif">
+                            <div class="btn-tabs-game">
+                                <a href="https://vantrungca.vtcgame.vn/landing10/?utm_source=landing10&amp;utm_medium=gamelist&amp;utm_content=1&amp;utm_" class="btn-tabs-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="https://vantrungca.vtcgame.vn/landing10/?utm_source=landing10&amp;utm_medium=gamelist&amp;utm_content=1&amp;utm_campaign=NoiBo" class="btn-tabs-choingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <div class="info-game-all">
+                                <img class="pull-right" src="https://vtcgame.vn/images/img-audition-gamemoi.png">
+                                <p>V&#226;n Trung Ca - Webgame Phi Thi&#234;n Loạn Đả số 1 Việt Nam</p>
+                                <a href="https://vantrungca.vtcgame.vn/landing10/?utm_source=landing10&amp;utm_medium=gamelist&amp;utm_content=1&amp;utm_" class="chitiet-tabs">Chi tiết >></a>
+                                <a href="https://vantrungca.vtcgame.vn/landing10/?utm_source=landing10&amp;utm_medium=gamelist&amp;utm_content=1&amp;utm_" class="btn-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="https://vantrungca.vtcgame.vn/landing10/?utm_source=landing10&amp;utm_medium=gamelist&amp;utm_content=1&amp;utm_campaign=NoiBo" class="btn-taingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+            </ul>
+
+        </div>
+        <div class="cc2">
+
+
+            <div class="name-game-tabs-all">
+                                                    <span class="glyphicon glyphicon-globe"></span>
+                
+                <h3>So&#225;i Vương</h3>
+            </div>
+            <ul class="grid cs-style-3">
+                <li>
+                    <figure>
+                        <div class="wrap-tabs-game">
+                            <img class="full-img" width="230" height="240" src="https://vtcgame.vn/media/vtcgate/2016/04/28/ava-sv1.gif">
+                            <div class="btn-tabs-game">
+                                <a href="http://sv.vtcgame.vn" class="btn-tabs-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="http://sv.vtcgame.vn" class="btn-tabs-choingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <div class="info-game-all">
+                                <img class="pull-right" src="https://vtcgame.vn/images/img-audition-gamemoi.png">
+                                <p>Với ưu thế về đồ họa cũng như gameplay đa phong c&#225;ch, g&#226;y ấn tượng cực mạnh với hệ thống PK tinh xảo, So&#225;i Vương chắc chắn sẽ kh&#244;ng l&#224;m bạn thất vọng.</p>
+                                <a href="http://sv.vtcgame.vn" class="chitiet-tabs">Chi tiết >></a>
+                                <a href="http://sv.vtcgame.vn" class="btn-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="http://sv.vtcgame.vn" class="btn-taingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+            </ul>
+
+        </div>
+        <div class="cc3">
+
+
+            <div class="name-game-tabs-all">
+                                                    <span class="glyphicon glyphicon-globe"></span>
+                
+                <h3>Hoa Thi&#234;n Cốt</h3>
+            </div>
+            <ul class="grid cs-style-3">
+                <li>
+                    <figure>
+                        <div class="wrap-tabs-game">
+                            <img class="full-img" width="230" height="240" src="https://vtcgame.vn/media/vtcgate/2015/12/21/HTC - 240x250.jpg">
+                            <div class="btn-tabs-game">
+                                <a href="https://hoathiencot.vtcgame.vn" class="btn-tabs-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="https://hoathiencot.vtcgame.vn" class="btn-tabs-choingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <div class="info-game-all">
+                                <img class="pull-right" src="https://vtcgame.vn/images/img-audition-gamemoi.png">
+                                <p>Hoa Thi&#234;n Cốt l&#224; webgame triệu đ&#244; nổi bật với t&#237;nh năng PK xuy&#234;n ph&#225; hư kh&#244;ng. Tựa game được chuyển thể từ bộ phim c&#249;ng t&#234;n ăn kh&#225;ch nhất năm 2015.</p>
+                                <a href="https://hoathiencot.vtcgame.vn" class="chitiet-tabs">Chi tiết >></a>
+                                <a href="https://hoathiencot.vtcgame.vn" class="btn-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="https://hoathiencot.vtcgame.vn" class="btn-taingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+            </ul>
+
+        </div>
+ <div class="clearfix"></div>         <div class="cc1">
+
+
+            <div class="name-game-tabs-all">
+                                                    <span class="glyphicon glyphicon-globe"></span>
+                
+                <h3>Diệp Vấn</h3>
+            </div>
+            <ul class="grid cs-style-3">
+                <li>
+                    <figure>
+                        <div class="wrap-tabs-game">
+                            <img class="full-img" width="230" height="240" src="https://vtcgame.vn/media/vtcgate/2016/05/29/13254068_1302263399803367_7630347660789224871_n.jpg">
+                            <div class="btn-tabs-game">
+                                <a href="http://diepvan.vtcgame.vn" class="btn-tabs-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="http://diepvan.vtcgame.vn" class="btn-tabs-choingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <div class="info-game-all">
+                                <img class="pull-right" src="https://vtcgame.vn/images/img-audition-gamemoi.png">
+                                <p>Đ&#226;y l&#224; tựa game đầu ti&#234;n c&#243; đề t&#224;i Diệp Vấn được Ch&#226;n Tử Đan đại diện h&#236;nh ảnh quảng b&#225; đến cộng đồng game thủ.</p>
+                                <a href="http://diepvan.vtcgame.vn" class="chitiet-tabs">Chi tiết >></a>
+                                <a href="http://diepvan.vtcgame.vn" class="btn-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="http://diepvan.vtcgame.vn" class="btn-taingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+            </ul>
+
+        </div>
+        <div class="cc2">
+
+
+            <div class="name-game-tabs-all">
+                                                    <span class="glyphicon glyphicon-globe"></span>
+                
+                <h3>B&#225;ch Chiến Phong Thần</h3>
+            </div>
+            <ul class="grid cs-style-3">
+                <li>
+                    <figure>
+                        <div class="wrap-tabs-game">
+                            <img class="full-img" width="230" height="240" src="https://vtcgame.vn/media/vtcgate/2015/12/08/BCPT_240x250.gif">
+                            <div class="btn-tabs-game">
+                                <a href="http://bachchien.vtcgame.vn/" class="btn-tabs-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="http://bachchien.vtcgame.vn/" class="btn-tabs-choingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <div class="info-game-all">
+                                <img class="pull-right" src="https://vtcgame.vn/images/img-audition-gamemoi.png">
+                                <p>B&#225;ch Chiến Phong Thần - Webgame ti&#234;n hiệp nhập vai với hệ thống PK khốc liệt v&#224; đấu trường chinh chiến đầy cam go.</p>
+                                <a href="http://bachchien.vtcgame.vn/" class="chitiet-tabs">Chi tiết >></a>
+                                <a href="http://bachchien.vtcgame.vn/" class="btn-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="http://bachchien.vtcgame.vn/" class="btn-taingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+            </ul>
+
+        </div>
+        <div class="cc3">
+
+
+            <div class="name-game-tabs-all">
+                                                    <span class="glyphicon glyphicon-globe"></span>
+                
+                <h3>Ngạo Thi&#234;n</h3>
+            </div>
+            <ul class="grid cs-style-3">
+                <li>
+                    <figure>
+                        <div class="wrap-tabs-game">
+                            <img class="full-img" width="230" height="240" src="https://vtcgame.vn/media/vtcgate/2015/12/08/NT_240x250.gif">
+                            <div class="btn-tabs-game">
+                                <a href="http://ngaothien.vtcgame.vn/" class="btn-tabs-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="http://ngaothien.vtcgame.vn/" class="btn-tabs-choingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <div class="info-game-all">
+                                <img class="pull-right" src="https://vtcgame.vn/images/img-audition-gamemoi.png">
+                                <p>Cốt truyện mang phong c&#225;ch Ti&#234;n Hiệp Thưởng Cổ với điển t&#237;ch Tam Ho&#224;ng – Ngũ Đế đến thể thức nhập vai như bao thể loại game MMOPRG kh&#225;c</p>
+                                <a href="http://ngaothien.vtcgame.vn/" class="chitiet-tabs">Chi tiết >></a>
+                                <a href="http://ngaothien.vtcgame.vn/" class="btn-trangchu"><span class="glyphicon glyphicon-home"></span>Trang chủ</a>
+                                                                                                    <a href="http://ngaothien.vtcgame.vn/" class="btn-taingay">Chơi ngay<span class="glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+            </ul>
+
+        </div>
+ <div class="clearfix"></div>         <div class="clearfix"></div>
+        <div id="pageListGame">
+        </div>
+    <div class="clearfix"></div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#pageListGame").pager({
+            pagenumber: '1',
+            pagecount: '2',
+            buttonClickCallback: function (page) {
+                var CateID = '23';
+                var p = page == null ? 1 : page;
+                HomeCtrl.ListGames(CateID, p);
+            }
+        });
+    });
+</script>
+        </div>
+    </div>
+</div>
+
+    <div id="slideshow">
+            <div>
+                <a href="https://as.vtcgame.vn/landing/?utm_source=landing&amp;utm_medium=banner_vtcgame&amp;utm_content=1&amp;utm_campaign=NoiBo" class="img-banner" id="bq" style="width:760px;height:90px;position:absolute;"></a>
+                <embed class="img-banner-bottom" src="https://vtcgame.vn/media/vtcgate/2016/08/18/Avatar-Star-728x90.jpg" width="760" height="90">
+
+            </div>
+            <div>
+                <a href="https://phidoi2.vtcgame.vn/?utm_source=homepage&amp;utm_medium=banner_vtcgame&amp;utm_content=1&amp;utm_campaign=NoiBo" class="img-banner" id="bq" style="width:760px;height:90px;position:absolute;"></a>
+                <embed class="img-banner-bottom" src="https://vtcgame.vn/media/vtcgate/2016/08/01/728x90.jpg" width="760" height="90">
+
+            </div>
+            <div>
+                <a href="https://hoathiencot.vtcgame.vn/update/?utm_source=update&amp;utm_medium=banner_vtcgame&amp;utm_content=1&amp;utm_campaign=Noibo" class="img-banner" id="bq" style="width:760px;height:90px;position:absolute;"></a>
+                <embed class="img-banner-bottom" src="https://vtcgame.vn/media/vtcgate/2016/08/19/728x90.gif" width="760" height="90">
+
+            </div>
+            <div>
+                <a href="https://vtcgame.vn/tin-tuc-6/thang-8---cong-vtc-game-co-gi-hot--3790?utm_source=tin-tuc&amp;utm_medium=banner_vtcgame&amp;utm_content=1&amp;utm_campaign=NoiBo" class="img-banner" id="bq" style="width:760px;height:90px;position:absolute;"></a>
+                <embed class="img-banner-bottom" src="https://vtcgame.vn/media/vtcgate/2016/08/15/728x90_skconggame.gif" width="760" height="90">
+
+            </div>
+
+    </div>
+    <style type="text/css">
+        #slideshow {
+            position: relative;
+            height: 130px;
+        }
+
+            #slideshow > div {
+                position: absolute;
+            }
+    </style>
+        <script type="text/javascript">
+
+            $("#slideshow > div:gt(0)").hide();
+
+            setInterval(function () {
+                $('#slideshow > div:first')
+                  .fadeOut(3000)
+                  .next()
+                  .fadeIn(3000)
+                  .end()
+                  .appendTo('#slideshow');
+            }, 3000);
+
+        </script>
+
+
+
+
+<div class="tabs-tintuc">
+    <ul class="nav nav-tabs nav-more " id="TabNew" role="tablist">
+        <li class="active tabs-li"><a href="javascript:;" onclick="NewsCtrl.ListNewHome(6);NewsCtrl.SetActiveTab(this)" aria-controls="tintuc" role="tab" data-toggle="tab">TIN TỨC</a></li>
+        <li class="tabs-li"><a href="javascript:;" onclick="NewsCtrl.ListNewHome(7);NewsCtrl.SetActiveTab(this)" aria-controls="sukien" role="tab" data-toggle="tab">SỰ KIỆN</a></li>
+		<li class="tabs-li"><a href="javascript:;" onclick="NewsCtrl.ListNewHome(8);NewsCtrl.SetActiveTab(this)" aria-controls="thuvienvideo" role="tab" data-toggle="tab">HƯỚNG DẪN TÂN THỦ</a></li>
+    </ul>
+
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tintuc">
+            <div class="wrap-tabs-tintuc" id="ListNewHome">
+                        <ul class="grid cs-style-3" style='margin-right: 20px'>
+            <li>
+                <a href="https://vtcgame.vn/tin-tuc-6/co-hoi-chien-thien-long-cung-bo-3-kieu-phong---hu-truc---doan-du-3813" title="Cơ hội chiến Thi&#234;n Long c&#249;ng bộ 3 Kiều Phong - Hư Tr&#250;c - Đo&#224;n Dự">
+                    <div class="wrap-game-all">
+                        <img class="full-img" width="230" height="150" src="https://vtcgame.vn/media/vtcgate/2016/08/22/image001.jpg">
+                        <div class="infor-tabs-tintuc">
+                            <h3><span onclick="window.location.href = linkCate;">Tin tức</span>Cơ hội chiến Thi&#234;n Long c&#249;ng bộ 3 Kiều Phong...</h3>
+                        </div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+        <ul class="grid cs-style-3" style='margin-right: 20px'>
+            <li>
+                <a href="https://vtcgame.vn/tin-tuc-6/thong-bao-giam-50--phi-chuyen-khoan-vcoin-tu-23-08-2016-3812" title="[Th&#244;ng b&#225;o] Giảm 50% ph&#237; chuyển khoản Vcoin từ 23/08/2016">
+                    <div class="wrap-game-all">
+                        <img class="full-img" width="230" height="150" src="https://vtcgame.vn/media/vtcgate/2016/08/22/Anh dai dien.png">
+                        <div class="infor-tabs-tintuc">
+                            <h3><span onclick="window.location.href = linkCate;">Tin tức</span>[Th&#244;ng b&#225;o] Giảm 50% ph&#237; chuyển khoản Vcoin...</h3>
+                        </div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+        <ul class="grid cs-style-3" >
+            <li>
+                <a href="https://vtcgame.vn/tin-tuc-6/phat-loctin-shock-giam-phi-chuyen-khoan-vcoin-sao-tu-2--xuong-1--3811" title="[Ph&#225;t Lộc][Tin Shock] Giảm ph&#237; chuyển khoản Vcoin/Sao từ 2% xuống 1%">
+                    <div class="wrap-game-all">
+                        <img class="full-img" width="230" height="150" src="https://vtcgame.vn/media/vtcgate/2016/08/22/1.png">
+                        <div class="infor-tabs-tintuc">
+                            <h3><span onclick="window.location.href = linkCate;">Tin tức</span>[Ph&#225;t Lộc][Tin Shock] Giảm ph&#237; chuyển khoản...</h3>
+                        </div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+        <ul class="grid cs-style-3" style='margin-right: 20px'>
+            <li>
+                <a href="https://vtcgame.vn/tin-tuc-6/nhung-dac-san-cua-avatar-star-ma-game-thu-khong-the-bo-qua-3810" title="Những “đặc sản” của Avatar Star m&#224; game thủ kh&#244;ng thể bỏ qua">
+                    <div class="wrap-game-all">
+                        <img class="full-img" width="230" height="150" src="https://vtcgame.vn/media/vtcgate/2016/08/22/Avatar Star - image004.jpg">
+                        <div class="infor-tabs-tintuc">
+                            <h3><span onclick="window.location.href = linkCate;">Tin tức</span>Những “đặc sản” của Avatar Star m&#224; game thủ...</h3>
+                        </div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+        <ul class="grid cs-style-3" style='margin-right: 20px'>
+            <li>
+                <a href="https://vtcgame.vn/tin-tuc-6/su-troi-day-cua-huyen-thoai-ban-sung-da-tung-lam-mua-lam-gio-lang-game-viet-3809" title="Sự trỗi dậy của huyền thoại bắn s&#250;ng đ&#227; từng l&#224;m mưa l&#224;m gi&#243; l&#224;ng game Việt">
+                    <div class="wrap-game-all">
+                        <img class="full-img" width="230" height="150" src="https://vtcgame.vn/media/vtcgate/2016/08/19/image003-as.png">
+                        <div class="infor-tabs-tintuc">
+                            <h3><span onclick="window.location.href = linkCate;">Tin tức</span>Sự trỗi dậy của huyền thoại bắn s&#250;ng đ&#227; từng...</h3>
+                        </div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+        <ul class="grid cs-style-3" >
+            <li>
+                <a href="https://vtcgame.vn/tin-tuc-6/kich-hoat-vip--nhan-ngay-luot-quay-mien-phi-3808" title="K&#237;ch hoạt Vip – nhận ngay lượt quay miễn ph&#237;">
+                    <div class="wrap-game-all">
+                        <img class="full-img" width="230" height="150" src="https://vtcgame.vn/media/vtcgate/2016/08/19/image001.gif">
+                        <div class="infor-tabs-tintuc">
+                            <h3><span onclick="window.location.href = linkCate;">Tin tức</span>K&#237;ch hoạt Vip – nhận ngay lượt quay miễn ph&#237;</h3>
+                        </div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+        <div class="clear"></div>
+        <div id="pageNewHome">
+        </div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#pageNewHome").pager({
+            pagenumber: '1',
+            pagecount: '593',
+            buttonClickCallback: function (page) {
+                var CateID = '6';
+                var p = page == null ? 1 : page;
+                var pageSize = '6';
+                NewsCtrl.ListNewHome(CateID, p, pageSize);
+            }
+        });
+    });
+</script>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+    
+    
+	
+    
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+		    
+			utils.getLinkOneClick();
+			var accountId = '0';
+            if (accountId > 0) {
+                utils.CheckIfIsVip();
+            }
+            $("#fbShare-rightContent").click(function () {
+                FB.ui(
+                {
+                    method: 'feed',
+                    name: 'VTC Game',
+                    link: 'https://vtcgame.vn/',
+                    
+                    description: 'Cổng game giải trí trực tuyến VTC Game ',
+                    caption: '',
+                    message: ''
+                },
+                function (response) { });
+            })
+        })
+    </script>
+	<!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N9B5R7"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N9B5R7');</script>
+    <!-- End Google Tag Manager -->
+	
+	 
+</body>
+</html>
+
+
+
