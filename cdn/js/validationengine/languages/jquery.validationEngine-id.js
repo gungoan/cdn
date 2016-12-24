@@ -155,10 +155,14 @@
                     "regex": /^[0-9-+]+$/,
                     "alertText": "* Karakter khusus tidak diperbolehkan"
                 },
+		 "onlyFillUser": {
+                    "regex": /^[a-zA-Z0-9]+(?:[_]?[a-zA-Z0-9])*$/,
+                    "alertText": "* No characters allowed"
+                },
                 // --- CUSTOM RULES -- Those are specific to the demos, they can be removed or changed to your likings
                 "ajaxUserCall": {
                     "url": "checkUsername.html",
-					"extraDataDynamic": ['#login'],
+		    "alertTextOk": "* Nama pengguna ini tersedia",
                     "alertText": "* Pengguna ini sudah diambil",
                     "alertTextLoad": "* Mengesahkan, silahkan tunggu"
                 },
