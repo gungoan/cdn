@@ -154,7 +154,6 @@
                 // --- CUSTOM RULES -- Those are specific to the demos, they can be removed or changed to your likings
                 "ajaxUserCall": {
                     "url": "checkUsername.html",
-		    "alertTextOk": "* Tên người dùng này có thể dùng được",
                     "alertText": "* Tên này được dùng",
                     "alertTextLoad": "* Đang xác nhận, vui lòng chờ"
                 },
