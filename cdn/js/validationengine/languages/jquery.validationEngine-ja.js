@@ -137,10 +137,14 @@
                     "regex": /^[0-9-+]+$/,
                     "alertText": "* 半角英数で入力してください"
                 },
+		"onlyFillUser": {
+                    "regex": /^[a-zA-Z0-9]+(?:[_]?[a-zA-Z0-9])*$/,
+                    "alertText": "* No characters allowed"
+                },
                 // --- CUSTOM RULES -- Those are specific to the demos, they can be removed or changed to your likings
                 "ajaxUserCall": {
                     "url": "checkUsername.html",
-					"extraDataDynamic": ['#login'],
+		    "alertTextOk": "* This name is available",
                     "alertText": "* This user is already taken",
                     "alertTextLoad": "* Validating, please wait"
                 },
