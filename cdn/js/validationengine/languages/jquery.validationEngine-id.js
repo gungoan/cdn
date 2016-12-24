@@ -162,7 +162,6 @@
                 // --- CUSTOM RULES -- Those are specific to the demos, they can be removed or changed to your likings
                 "ajaxUserCall": {
                     "url": "checkUsername.html",
-		    "alertTextOk": "* Nama pengguna ini tersedia",
                     "alertText": "* Pengguna ini sudah diambil",
                     "alertTextLoad": "* Mengesahkan, silahkan tunggu"
                 },
