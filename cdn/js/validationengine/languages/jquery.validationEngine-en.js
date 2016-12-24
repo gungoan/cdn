@@ -152,7 +152,7 @@
                     "alertText": "* Invalid characters"
                 },
 		"onlyFillUser": {
-                    "regex": /^[a-zA-Z0-9]+(?:[_ -]?[a-zA-Z0-9])*$/,
+                    "regex": /^[a-zA-Z0-9]+(?:[_]?[a-zA-Z0-9])*$/,
                     "alertText": "* No characters allowed"
                 },
                 // --- CUSTOM RULES -- Those are specific to the demos, they can be removed or changed to your likings
