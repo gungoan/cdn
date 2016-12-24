@@ -149,19 +149,21 @@
                 },
                 "onlyTel": {
                     "regex": /^[0-9-+]+$/,
-                    "alertText": "* Định dạng không đúng"
+                    "alertText": "* Invalid characters"
+                },
+		"onlyFillUser": {
+                    "regex": /^[a-zA-Z0-9]+(?:[_ -]?[a-zA-Z0-9])*$/,
+                    "alertText": "* No characters allowed"
                 },
                 // --- CUSTOM RULES -- Those are specific to the demos, they can be removed or changed to your likings
                 "ajaxUserCall": {
                     "url": "checkUsername.html",
-					"extraDataDynamic": ['#login'],
+		    "alertTextOk": "* This name is available",
                     "alertText": "* This user is already taken",
                     "alertTextLoad": "* Validating, please wait"
                 },
 				"ajaxUserCallPhp": {
                     "url": "phpajax/ajaxValidateFieldUser.php",
-                    // you may want to pass extra data on the ajax call
-                    "extraData": "name=eric",
                     // if you provide an "alertTextOk", it will show as a green prompt when the field validates
                     "alertTextOk": "* This username is available",
                     "alertText": "* This user is already taken",
