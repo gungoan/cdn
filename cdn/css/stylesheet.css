@@ -629,6 +629,15 @@ form{margin: 0px;}
         .label.label-warning,.badge.badge-warning{background: #faa732;}
         .label.label-info,.badge.badge-info{background: #49afcd;}
         .label.label-inverse,.badge.badge-inverse{background: #FFF; color: #333;}
+	.label.label-pink,.badge.badge-pink{background-color:#D6487E}
+	.label.label-purple,.badge.badge-purple{background-color:#9585BF}
+	.label.label-yellow,.badge.badge-yellow{background-color:#FEE188}
+	.label.label-light,.badge.badge-light{background-color:#E7E7E7}
+	.label.label-pink,.badge.badge-pink{background-color:#D6487E}
+	.badge-yellow,.label-yellow{color:#963;border-color:#FEE188}
+	.badge-light,.label-light{color:#888}
+
+
         
     /* EOF Bootstrap labels, badges */
     
