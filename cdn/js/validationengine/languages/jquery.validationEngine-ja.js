@@ -126,7 +126,7 @@
                     "alertText": "* 半角英数で入力してください"
                 },
                 "onlyLetterNumber": {
-                    "regex": /^[a-zA-Z0-9\s]*$/,
+                    "regex": /^[a-zA-Z0-9]+(?:[_]?[a-zA-Z0-9])*$/,
                     "alertText": "* 半角英数で入力してください"
                 },
                 "onlyNumberHyphen": {
