@@ -144,7 +144,7 @@
                     "alertText": "* Karakter khusus tidak diperbolehkan"
                 },
                 "onlyLetterNumber": {
-                    "regex": /^[0-9a-zA-Z]+$/,
+                    "regex": /^[a-zA-Z0-9]+(?:[_]?[a-zA-Z0-9])*$/,
                     "alertText": "* Karakter khusus tidak diperbolehkan"
                 },
 				"onlyNumberHyphen": {
