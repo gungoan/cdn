@@ -135,7 +135,7 @@
                     "alertText": "* Không được chứa ký tự đặc biệt"
                 },
                 "onlyLetterNumber": {
-                    "regex": /^[a-zA-Z0-9]*$/,
+                    "regex": /^[a-zA-Z0-9]+(?:[_]?[a-zA-Z0-9])*$/,
                     "alertText": "* Không được chứa ký tự đặc biệt"
                 },
                 "onlyNumberHyphen": {
