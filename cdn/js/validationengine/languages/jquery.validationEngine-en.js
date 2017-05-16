@@ -140,7 +140,7 @@
                     "alertText": "* No special characters allowed"
                 },
                 "onlyLetterNumber": {
-                    "regex": /^[a-zA-Z0-9\s]*$/,
+                    "regex": /^[a-zA-Z0-9]+(?:[_]?[a-zA-Z0-9])*$/,
                     "alertText": "* No special characters allowed"
                 },
                 "onlyNumberHyphen": {
