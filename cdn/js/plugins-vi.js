@@ -134,7 +134,7 @@ $(document).ready(function(){
                     return false; 
                 }   else {
 					$('#ConfirmAmount').html($("#balance").val());
-					var total = parseInt($("#balance").autoNumeric("get"))+315;
+					var total = parseInt($("#balance").autoNumeric("get"))-315;
 					$('#totalbalance').autoNumeric('init');
 					$('#totalbalance').autoNumeric('set', total);
 					$('#ConfirmTotal').html('¥ '+$('#totalbalance').val());
